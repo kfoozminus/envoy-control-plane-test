@@ -209,6 +209,7 @@
     "github.com/envoyproxy/go-control-plane/pkg/cache",
     "github.com/envoyproxy/go-control-plane/pkg/server",
     "github.com/envoyproxy/go-control-plane/pkg/util",
+    "github.com/gogo/protobuf/types",
     "github.com/sirupsen/logrus",
     "google.golang.org/grpc",
   ]

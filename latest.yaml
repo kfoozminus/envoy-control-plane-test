@@ -8,11 +8,11 @@ node:
   id: jenny
 
 dynamic_resources:
-  ads_config:
-    api_type: GRPC
-    grpc_services:
-      envoy_grpc:
-        cluster_name: xds_cluster
+    #ads_config:
+    #adapi_type: GRPC
+    #adgrpc_services:
+    #ad  envoy_grpc:
+    #ad    cluster_name: xds_cluster
   cds_config:
     api_config_source:
       api_type: GRPC
